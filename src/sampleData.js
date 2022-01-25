@@ -36,6 +36,25 @@ const sampleData = [
                 review: 'tastes like Brodie\'s period blood'
             }
         ]
+    },
+    {
+        maker: 'Dog Squirts',
+        varietal: 'blend',
+        year: 2016,
+        type: 'blend',
+        price: 599,
+        dateTasted: '1/28/2022',
+        imageUrl: 'https://i.pinimg.com/474x/c2/10/a6/c210a675082186ad54d8b36b4cc24944.jpg',
+        reviews: [
+            {
+                name: 'Morgan Crosta',
+                review: 'something ain\'t right'
+            },
+            {
+                name: 'Peter Crosta',
+                review: 'drinking this wine really brought out my synesthesia'
+            }
+        ]
     }
 ]
 
